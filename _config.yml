@@ -85,12 +85,12 @@ analytics:
 author:
   name             : "Caoyun Fan(范曹耘)"
   avatar           : "academic50k.png"
-  bio              : "清醒的在这个世界混时度日"
+  bio              : "清风拂山岗，明月照大江。"
   location         : "上海"
   employer         : "上海交通大学"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  zhihu            : "people/zhoulvbang"
+  googlescholar    : "https://scholar.google.com/citations?user=KFLS66EAAAAJ&hl=en"
+  # zhihu            : "people/zhoulvbang"
   email            : "fcy3649@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
@@ -107,7 +107,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-7360-3468"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
