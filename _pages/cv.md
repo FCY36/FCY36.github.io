@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,17 +11,19 @@ redirect_from:
 
 Education
 ======
-* 公共事业管理, 湖南中医药大学 2019-2023
-  * GPA：3.69/5
-  * 专业排名：15%
+* 本科：数理基础科学, 电子科技大学 2016.9-2020.6
+  * 入选英才实验学院
+  * GPA：3.98/4
+  * 加权平均分：90.39
+  * 专业排名：4 / 17
+* 博士：信息与通信工程，上海交通大学 2020.9-
+  * GPA：3.34/4
 
-Work experience
+Campus Activities
 ======
-* 暂无
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+* 美利坚大学暑期交换访学项目 2018.7-2018.8
+  * 优秀营员
+* 台湾交通大学春季交换生项目 2019.2-2019.6
   
 Skills
 ======
