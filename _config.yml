@@ -10,9 +10,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "周律邦 / a'a'a"
+title                    : "Caoyun Fan(范曹耘)"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Caoyun Fan(范曹耘)"
 description              : &description "personal description"
 url                      : https://zhoulvbang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
