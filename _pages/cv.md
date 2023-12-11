@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+======
+* 基于大语言模型的智能代理
+* 自然语言理解中的因果推断
+* 情景学习
+* 文本特征提取
+
 Education
 ======
 * 本科：数理基础科学, 电子科技大学 2016.9-2020.6
@@ -28,38 +35,16 @@ Campus Activities
 * 台湾交通大学春季交换生项目 2019.2-2019.6
   * 电子科技大学仅5人入选
 
-  
 Skills
 ======
-* LaTeX
 * Python
-   * Data Analysis
-   * Web Crawler
-* SPSS
-* CET-4/CET-6
+  * pytorch
+  * hugging face
+* CET-4：572
+* CET-6：551
 
-Personal honor
+Personal Honor
 ======
-* 湖南中医药大学校级一等奖学金，2019-2020
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Leadership and Service
-======
-* 2021年湖南省大学生创新创业训练计划省级项目主持人
+* 第32届全国高中生物理竞赛 二等奖 (2015.10)
+* 四川省第三届大学生普通物理知识竞赛决赛 特等奖，第一名 (2017.10)
+* 普通话水平测试 二级甲等 (2018.12)
