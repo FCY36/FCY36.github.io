@@ -1,3 +1,6 @@
+hhhhh
+
+
 一个学术网站的 Github Pages 模板。 这是由 [Stuart Geiger](https://github.com/staeiou) 从 [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) 分叉（然后分离），这是 ©2016 Michael Rose 在 MIT 许可下发布。参见 LICENSE.md。
 
 我想我已经顺利运行并修复了一些主要错误，但是如果您想改进通用模板/主题，请随时提交问题或提出拉取请求。
