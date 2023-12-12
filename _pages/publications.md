@@ -31,7 +31,7 @@ author_profile: true
 </div>
 
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="../images/paper_cover_image/ACCV2022.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
+ <img src="../images/paper_cover_image/APIN2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Accurate Use of Label Dependency in Multi-Label Text Classification Through the Lens of Causality", <b>Applied Intelligence 2023 (SCI 二区，IF：5.3)</b>. 
 <a href="https://arxiv.org/abs/2310.07588">[PDF]</a>,
 <i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
