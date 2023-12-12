@@ -27,7 +27,7 @@ author_profile: true
  <img src="../images/paper_cover_image/ESWA2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Unlock the Potential of Counterfactually-Augmented Data in Out-Of-Distribution Generalization", <b>Expert Systems With Applications 2024 (SCI 一区，IF：8.5)</b>. 
 <a href="https://arxiv.org/abs/2310.06666">[PDF]</a>,
-<i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
+<i><b>TL,DR</b>: We theoretically demonstrate two perspectives of using CAD to improve the OOD generalization ability of language models, and propose corresponding constraints, which we call the ECF algorithm. </i>
 </p>
 </div>
 
