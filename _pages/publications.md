@@ -51,7 +51,7 @@ author_profile: true
  <img src="../images/paper_cover_image/ICASSP2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Improving the Out-Of-Distribution Generalization Capability of Language Models: Counterfactually-Augmented Data is not Enough", <b>ICASSP-2023 ORAL (CCF-B)</b>. 
 <a href="https://arxiv.org/abs/2302.09345">[PDF]</a>,
-<i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
+<i><b>TL,DR</b>: We attribute the inefficiency of Counterfactually-Augmented Data (CAD) in Out-Of-Distribution generalization to “Myopia Phenomenon” and propose two constraints to unlock the potential of CAD. </i>
 </p>
 </div>
 
@@ -59,7 +59,7 @@ author_profile: true
  <img src="../images/paper_cover_image/ACCV2022.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
 <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "MaxGNR: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio for Multi-Task Learning", <b>ACCV-2022 (CCF-C)</b>. 
 <a href="https://arxiv.org/abs/2302.09352">[PDF]</a>,
-<i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
+<i><b>TL,DR</b>: We attribute a dynamic weight strategy via maximizing Gradient-to-Noise Ratio in multi-task learning. </i>
 </p>
 </div>
 
