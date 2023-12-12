@@ -35,7 +35,7 @@ author_profile: true
  <img src="../images/paper_cover_image/EMNLP2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Wenqing Chen, Hao He, Yaohui Jin. "Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding", <b>EMNLP 2023 (CCF-B)</b>. 
 <a href="https://arxiv.org/abs/2310.11721">[PDF]</a>,
-<i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
+<i><b>TL,DR</b>: We propose Chain-of-Thought Tuning (CoTT), a two-step reasoning framework based on prompt tuning to implement step-by-step thinking for MLMs on NLU tasks. </i>
 </p>
 </div>
 
