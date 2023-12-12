@@ -11,7 +11,7 @@ author_profile: true
  <img src="../images/paper_cover_image/ICASSP2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection", <b>ICASSP-2024 (CCF-B)</b>. 
 <a href="https://arxiv.org/">[PDF]</a>,
-<i><b>TL,DR</b>: aaaaaaaaaaaaa </i>
+<i><b>TL,DR</b>: Demonstration bias does exist in In-Context Learning, and Comparable Demonstrations can significantly reduce such bias. </i>
 </p>
 </div>
 
