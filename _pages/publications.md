@@ -85,12 +85,12 @@ author_profile: true
 
 <div style="display:inline-block; border:2px; margin:10px;">
 <p>Yitian Li, Jidong Tian, Wenqing Chen, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "To What Extent Do Natural Language Understanding Datasets Correlate to Logical Reasoning? A Method for Diagnosing Logical Reasoning", <b>COLING-2022 (CCF-B)</b>. 
-<a href="https://aclanthology.org/2022.coling-1.147.pdf">[PDF]</a>
+<a href="https://aclanthology.org/2022.coling-1.147/">[PDF]</a>
 </p>
 </div>
 
 <div style="display:inline-block; border:2px; margin:10px;">
 <p>Wenqing Chen, Jidong Tian, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "Dependent multi-task learning with causal intervention for image captioning", <b>IJCAI-2021 (CCF-A)</b>. 
-<a href="https://arxiv.org/pdf/2105.08573.pdf">[PDF]</a>
+<a href="https://arxiv.org/abs/2105.08573">[PDF]</a>
 </p>
 </div>
