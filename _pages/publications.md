@@ -11,7 +11,7 @@ author_profile: true
  <img src="../images/paper_cover_image/ICASSP2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection", <b>ICASSP-2024 (CCF-B)</b>. 
 <a href="https://arxiv.org/">[PDF]</a>,
-<i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
+<i><b>TL,DR</b>: We select three classic games (dictator game, rock-paper-scissors, and ring-net game) to analyze to what extent LLMs can achieve rationality, and we find that even the current state-of-the-art LLM (GPT-4) exhibits substantial disparities compared to humans in game theory. </i>
 </p>
 </div>
 
