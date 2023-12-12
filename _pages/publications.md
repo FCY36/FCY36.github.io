@@ -66,6 +66,30 @@ author_profile: true
 # 共同作者论文
 
 <div style="display:inline-block; border:2px; margin:10px;">
+<p>Yitian Li, Jidong Tian, <b>Caoyun Fan</b>, Wenqing Chen, Hao He, Yaohui Jin. "MTR: A Dataset Fusing Inductive, Deductive, and Defeasible Reasoning", <b>Findings of ACL-2023 (CCF-A)</b>. 
+<a href="https://aclanthology.org/2023.findings-acl.640/">[PDF]</a>
+</p>
+</div>
+
+<div style="display:inline-block; border:2px; margin:10px;">
+<p>Jidong Tian, Wenqing Chen, Yitian Li, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "Latent constraints on unsupervised text-graph alignment with information asymmetry", <b>AAAI-2023 (CCF-A)</b>. 
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26600">[PDF]</a>
+</p>
+</div>
+
+<div style="display:inline-block; border:2px; margin:10px;">
+<p>Wenqing Chen, Jidong Tian, <b>Caoyun Fan</b>, Yitian Li, Hao He, Yaohui Jin. "Preference-controlled multi-objective reinforcement learning for conditional text generation", <b>AAAI-2023 (CCF-A)</b>. 
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26490">[PDF]</a>
+</p>
+</div>
+
+<div style="display:inline-block; border:2px; margin:10px;">
+<p>Yitian Li, Jidong Tian, Wenqing Chen, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "To What Extent Do Natural Language Understanding Datasets Correlate to Logical Reasoning? A Method for Diagnosing Logical Reasoning", <b>COLING-2022 (CCF-B)</b>. 
+<a href="https://aclanthology.org/2022.coling-1.147.pdf">[PDF]</a>
+</p>
+</div>
+
+<div style="display:inline-block; border:2px; margin:10px;">
 <p>Wenqing Chen, Jidong Tian, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "Dependent multi-task learning with causal intervention for image captioning", <b>IJCAI-2021 (CCF-A)</b>. 
 <a href="https://arxiv.org/pdf/2105.08573.pdf">[PDF]</a>
 </p>
