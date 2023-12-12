@@ -65,4 +65,8 @@ author_profile: true
 
 # 共同作者论文
 
-
+<div style="display:inline-block; border:2px; margin:10px;">
+<p>Wenqing Chen, Jidong Tian, <b>Caoyun Fan</b>, Hao He, Yaohui Jin. "Dependent multi-task learning with causal intervention for image captioning", <b>IJCAI-2021 (CCF-A)</b>. 
+<a href="https://arxiv.org/pdf/2105.08573.pdf">[PDF]</a>
+</p>
+</div>
