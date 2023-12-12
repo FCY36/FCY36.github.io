@@ -7,7 +7,7 @@ author_profile: true
 
 
 <div style="display:inline-block; border:2px; margin:10px;">
- <img src="../images/paper_cover_image/ACCV2022.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
+ <img src="../images/paper_cover_image/AAAI2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Jindou Chen, Yaohui Jin, Hao He. "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis", <b>AAAI 2024 (CCF-A)</b>. 
 <a href="https://arxiv.org/abs/2312.05488">[PDF]</a>,
 <i><b>TL,DR</b>: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio in Multi-Task Learning. </i>
