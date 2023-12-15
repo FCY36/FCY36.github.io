@@ -19,6 +19,10 @@ redirect_from:
 
 我预计在2025年毕业。**我正在寻找一份2024年的实习工作，以及2025年的全职工作**。如果你感兴趣，请联系我。
 
+<br>
+<br>
+<br>
+
 I am Caoyun Fan(范曹耘), a fourth-year PhD candidate at [Shanghai Jiao Tong University AI Institute](https://ai.sjtu.edu.cn/), supervised by Prof. Yaohui Jin(金耀辉). I received my Bachelor degree in Basic Mathematical Sciences from [the Honors College in the University of Electronic Science and Technology of China](https://www.yingcai.uestc.edu.cn/). 
 
 My research papers are published in AAAI, ACL, EMNLP, ICASSP, COLING, ESWA, APIN, .etc.  
@@ -30,5 +34,13 @@ My research interests include:
 
 I expect to graduate in 2025. **I'm looking for an internship in 2024 and a full-time job in 2025**. If you are interested, please contact me. 
 
+<br>
+<br>
+<br>
+
 ===================
-Last updated: December 15, 2023.
+Last updated: December 15, 2023. 
+
+<br>
+<br>
+<br>
