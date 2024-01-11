@@ -38,8 +38,7 @@ I expect to graduate in 2025. **I'm looking for an internship in 2024 and a full
 <br>
 <br>
 
-===================
-Last updated: December 15, 2023. 
+Date modified: 2024-01-10
 
 <br>
 <br>
