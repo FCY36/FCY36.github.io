@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/AAAI2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
- <p><b>Caoyun Fan</b>, Jindou Chen, Yaohui Jin, Hao He. "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis", <b>AAAI 2024 (CCF-A)</b>. 
+ <p><b>Caoyun Fan</b>, Jindou Chen, Yaohui Jin, Hao He. "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis", <b>AAAI 2024 ORAL (CCF-A)</b>. 
 <a href="https://arxiv.org/abs/2312.05488">[PDF]</a>,
 <i><b>TL,DR</b>: We select three classic games (dictator game, Rock-Paper-Scissors, and ring-network game) to analyze to what extent LLMs can achieve rationality, and we find that even the current state-of-the-art LLM (GPT-4) exhibits substantial disparities compared to humans in game theory. </i>
 </p>
