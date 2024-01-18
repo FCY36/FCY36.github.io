@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/AAAI2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
- <p><b>Caoyun Fan</b>, Jindou Chen, Yaohui Jin, Hao He. "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis", <b>AAAI 2024 ORAL (~2%) (CCF-A)</b>. 
+ <p><b>Caoyun Fan</b>, Jindou Chen, Yaohui Jin, Hao He. "Can Large Language Models Serve as Rational Players in Game Theory? A Systematic Analysis", <b>AAAI 2024 ORAL (1.9%) (CCF-A)</b>. 
 <a href="https://arxiv.org/abs/2312.05488">[PDF]</a>,
 <i><b>TL,DR</b>: We select three classic games (dictator game, Rock-Paper-Scissors, and ring-network game) to analyze to what extent LLMs can achieve rationality, and we find that even the current state-of-the-art LLM (GPT-4) exhibits substantial disparities compared to humans in game theory. </i>
 </p>
@@ -49,7 +49,7 @@ author_profile: true
 
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/ICASSP2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
- <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Improving the Out-Of-Distribution Generalization Capability of Language Models: Counterfactually-Augmented Data is not Enough", <b>ICASSP 2023 ORAL (~12%) (CCF-B)</b>. 
+ <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Improving the Out-Of-Distribution Generalization Capability of Language Models: Counterfactually-Augmented Data is not Enough", <b>ICASSP 2023 ORAL (~11.8%) (CCF-B)</b>. 
 <a href="https://arxiv.org/abs/2302.09345">[PDF]</a>,
 <i><b>TL,DR</b>: We attribute the inefficiency of Counterfactually-Augmented Data (CAD) in Out-Of-Distribution generalization to “Myopia Phenomenon” and propose two constraints to unlock the potential of CAD. </i>
 </p>
