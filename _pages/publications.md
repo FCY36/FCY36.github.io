@@ -9,7 +9,7 @@ author_profile: true
 
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/ICASSP2024_.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
- <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection", <b>ICASSP 2024 (CCF-B)</b>. 
+ <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection", <b>ICASSP 2024 ORAL (12%) (CCF-B)</b>. 
 <a href="https://arxiv.org/abs/2312.07476">[PDF]</a>,
 <i><b>TL,DR</b>: Large Language Models may misunderstand the task's essence due to the limited number of demonstrations in In-Context Learning, and Comparable Demonstrations can significantly alleviate this situation. </i>
 </p>
@@ -26,7 +26,7 @@ author_profile: true
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/ESWA2024.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Unlock the Potential of Counterfactually-Augmented Data in Out-Of-Distribution Generalization", <b>Expert Systems With Applications 2024 (SCI 一区，IF：8.5)</b>. 
-<a href="https://arxiv.org/abs/2310.06666">[PDF]</a>,
+<a href="https://www.sciencedirect.com/science/article/pii/S095741742302568X?casa_token=EWT497Q_UCkAAAAA:3tSICFa-wwVkUzdAqtFscLRwqPLL4PZ7lTfFQ4tlHMEbrGMw2qcoJvJAdMgv9D2p4TixQm1mFQ8JIg">[PDF]</a>,
 <i><b>TL,DR</b>: We theoretically demonstrate two perspectives of using Counterfactually-Augmented Data (CAD) to improve the Out-Of-Distribution (OOD) generalization ability of language models, and propose corresponding constraints, which we call the ECF algorithm. </i>
 </p>
 </div>
@@ -34,7 +34,7 @@ author_profile: true
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/EMNLP2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Jidong Tian, Yitian Li, Wenqing Chen, Hao He, Yaohui Jin. "Chain-of-Thought Tuning: Masked Language Models can also Think Step By Step in Natural Language Understanding", <b>EMNLP 2023 (CCF-B)</b>. 
-<a href="https://arxiv.org/abs/2310.11721">[PDF]</a>,
+<a href="https://aclanthology.org/2023.emnlp-main.913/">[PDF]</a>,
 <i><b>TL,DR</b>: We propose Chain-of-Thought Tuning (CoTT), a two-step reasoning framework based on prompt tuning to implement step-by-step thinking for MLMs on NLU tasks. </i>
 </p>
 </div>
@@ -42,7 +42,7 @@ author_profile: true
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/APIN2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Accurate Use of Label Dependency in Multi-Label Text Classification Through the Lens of Causality", <b>Applied Intelligence 2023 (SCI 二区，IF：5.3)</b>. 
-<a href="https://arxiv.org/abs/2310.07588">[PDF]</a>,
+<a href="https://link.springer.com/article/10.1007/s10489-023-04623-3">[PDF]</a>,
 <i><b>TL,DR</b>: We find that language models exploit the correlation shortcut in label dependencies in multi-label text classification, and propose a CounterFactual Text Classifier (CFTC) to help language models make causality-based predictions. </i>
 </p>
 </div>
@@ -50,7 +50,7 @@ author_profile: true
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/ICASSP2023.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
  <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "Improving the Out-Of-Distribution Generalization Capability of Language Models: Counterfactually-Augmented Data is not Enough", <b>ICASSP 2023 ORAL (11.8%) (CCF-B)</b>. 
-<a href="https://arxiv.org/abs/2302.09345">[PDF]</a>,
+<a href="https://ieeexplore.ieee.org/abstract/document/10095209">[PDF]</a>,
 <i><b>TL,DR</b>: We attribute the inefficiency of Counterfactually-Augmented Data (CAD) in Out-Of-Distribution generalization to “Myopia Phenomenon” and propose two constraints to unlock the potential of CAD. </i>
 </p>
 </div>
@@ -58,7 +58,7 @@ author_profile: true
 <div style="display:inline-block; border:2px; margin:10px;">
  <img src="../images/paper_cover_image/ACCV2022.png" style="float:left;" width="280" alt="markdown" align="left" hspace="10px">
 <p><b>Caoyun Fan</b>, Wenqing Chen, Jidong Tian, Yitian Li, Hao He, Yaohui Jin. "MaxGNR: A Dynamic Weight Strategy via Maximizing Gradient-to-Noise Ratio for Multi-Task Learning", <b>ACCV 2022 (CCF-C)</b>. 
-<a href="https://arxiv.org/abs/2302.09352">[PDF]</a>,
+<a href="https://link.springer.com/chapter/10.1007/978-3-031-26319-4_31">[PDF]</a>,
 <i><b>TL,DR</b>: We attribute a dynamic weight strategy via maximizing Gradient-to-Noise Ratio in multi-task learning. </i>
 </p>
 </div>
